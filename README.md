@@ -1,6 +1,6 @@
 # advanced-digital-clock-C
 ---
-[In Python3](#)
+[In Python3](https://github.com/mdriyadkhan585/advanced-digital-clock)
 
 ![Clock Logo](logo.svg)
 
